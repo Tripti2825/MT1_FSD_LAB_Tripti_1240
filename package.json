@@ -1,0 +1,25 @@
+{
+  "name": "mt1-fsd-lab-assessment",
+  "version": "1.0.0",
+  "description": "MT1 FSD Lab Assessment - Tripti (2500320101240)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tripti2825/MT1_FSD_LAB_Tripti_1240.git"
+  },
+  "keywords": [],
+  "author": "Tripti (2500320101240)",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tripti2825/MT1_FSD_LAB_Tripti_1240/issues"
+  },
+  "homepage": "https://github.com/Tripti2825/MT1_FSD_LAB_Tripti_1240#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
